@@ -104,12 +104,11 @@ Below is a high-level diagram that illustrates the architecture of the StudyNoti
 
 The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 
-For detailed API documentation and endpoints, refer to the [API Documentation](/api-docs).
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Navigate to the project directory: `cd StudyNotion`
+1. Clone the repository
+2. Navigate to the project directory 
 3. Install dependencies: `npm install`
 
 ## Configuration
